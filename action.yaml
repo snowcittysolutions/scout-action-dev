@@ -1,5 +1,5 @@
 # https://help.github.com/en/articles/metadata-syntax-for-github-actions
-name: Docker Scout
+name: GHActions on DockerScout
 description: List vulnerabilities in images; find better base images and upload an image SBOM to Docker Scout
 author: Docker
 
